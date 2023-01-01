@@ -19,7 +19,7 @@ SKU aka UPC stands for a Stock Keeping Unit. It is a scnnable bar code, most oft
 
 This project will be divided into four parts in order :
 
-1) Macro-vew Trend Analysis (Competitive/Geographical Analysis) -- US vs Mid-Atlantic
+1) Macro-view Trend Analysis (Competitive/Geographical Analysis) -- US vs Mid-Atlantic
 2) 5,000 SKU Selection on the basis of statistical approach
 3) Categorial Proportion analysis in 5,000 SKU selection
 4) Future Improvement & Strategical Planning
